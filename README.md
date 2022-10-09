@@ -11,7 +11,7 @@ It is simply a basic library application.
 ----------------------------------
 
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/StivenAtis/App-Library/blob/gh-pages/media/library_users_home_page.png" />
 </p>
 
 ----------------------------------
